@@ -1,6 +1,6 @@
 # ai-tinkerers-max-vibe-coding
 
-AI Prompts from Warsaw AI Tinkerers "MAX vibe coding" talk.
+AI Prompts from Warsaw AI Tinkerers "MAX vibe coding" talk by [Greg Kossakowski](https://x.com/gkossakowski) and [Patryk Kabaj](https://x.com/patrykkabaj) on 26th June 2025.
 
 ## Example PRD
 
