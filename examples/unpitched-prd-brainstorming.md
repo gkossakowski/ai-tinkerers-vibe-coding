@@ -16,6 +16,8 @@ For now, the task will be to brainstorm details of the project and identify key 
 
 This new project is code-named Unpitched for now. Our priority for this PRD and the scope we'll be discussing is to ship a working end-to-end product. The absolute priority is getting the core functionality working, and creating a wow experience for the user. Security, privacy, etc. are not a priority for now. This is due to the time constraint, and PoC nature of the project.
 
+---
+
 We had some brainstorming session already. We tried to figure out "jobs-to-be done" for the product (as addressing users' needs). Here's a dump of the summary of that session:
 ```markdown
 This meeting focused on designing a tool to help with customer interviews and recruitment processes, particularly for technical founders who struggle with conducting effective non-pitching interviews.
