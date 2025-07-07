@@ -12,4 +12,4 @@ We found the Grok 3 in thinking mode to be the best model for this prompt and ta
 
 ## Full Cursor chat
 
-In the `examples/full-cursor-chat.md` file you can find the whole, multi-step conversation with Cursor that we presented at AI Tinkerers Warsaw meetup. You can dig into details and find more tricks that we use in our daily work and didn't have time to cover in the talk.
+In the `prompts/full-chat-cursor.md` file you can find the whole, multi-step conversation with Cursor that we presented at AI Tinkerers Warsaw meetup. You can dig into details and find more tricks that we use in our daily work and didn't have time to cover in the talk.
